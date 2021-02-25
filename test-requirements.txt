@@ -1,0 +1,3 @@
+-r requirements.txt
+aiounittest>=1.4.0,<1.5.0
+requests>=2.24.0,<2.25.0
